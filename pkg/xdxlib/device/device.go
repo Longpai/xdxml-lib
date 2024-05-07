@@ -3,7 +3,7 @@ package device
 import (
 	"fmt"
 
-	"github.com/Longpai/xdxml-lib/pkg/go-xdxlib/xdxml"
+	"github.com/Longpai/xdxml-lib/pkg/xdxlib/xdxml"
 )
 
 type Device xdxml.Device

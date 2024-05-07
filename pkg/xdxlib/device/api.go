@@ -1,7 +1,7 @@
 package device
 
 import (
-	"github.com/Longpai/xdxml-lib/pkg/go-xdxlib/xdxml"
+	"github.com/Longpai/xdxml-lib/pkg/xdxlib/xdxml"
 )
 
 // Interface provides the API to the 'device' package

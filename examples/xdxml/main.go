@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/Longpai/xdxml-lib/pkg/go-xdxlib/xdxml"
+	"github.com/Longpai/xdxml-lib/pkg/xdxlib/xdxml"
 )
 
 func main() {
