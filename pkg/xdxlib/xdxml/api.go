@@ -33,8 +33,11 @@ type Device interface {
 	GetMinorNumber() (int, Return)
 	GetPciInfo() (PciInfo, Return)
 	GetUUID() (string, Return)
+	GetMemoryInfo() (Memory, Return)
 }
 
 type Return xdxml.Return
 
 type PciInfo xdxml.Pci_info
+
+type Memory xdxml.Memory

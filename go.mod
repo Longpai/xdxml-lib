@@ -3,7 +3,7 @@ module github.com/Longpai/xdxml-lib
 go 1.20
 
 require (
-	github.com/chen-mao/go-xdxml v1.0.3-0.20240506081204-e1fbc1f95cfd
+	github.com/chen-mao/go-xdxml v1.0.3-0.20240507064721-089cc5c00b45
 	github.com/google/uuid v1.6.0
 )
 

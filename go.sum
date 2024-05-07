@@ -2,6 +2,8 @@ github.com/chen-mao/go-xdxml v1.0.3-0.20240506073418-512f3103b4b0 h1:7xLfYcM+hQK
 github.com/chen-mao/go-xdxml v1.0.3-0.20240506073418-512f3103b4b0/go.mod h1:IGA2gLcTDpgrl31EAxkyFuPV3FgT9WGV8MFw2JG8+o8=
 github.com/chen-mao/go-xdxml v1.0.3-0.20240506081204-e1fbc1f95cfd h1:JbrnPQG5S5O+3zXkLqgsfIU8mnz2EWsv0oT+eWMXe70=
 github.com/chen-mao/go-xdxml v1.0.3-0.20240506081204-e1fbc1f95cfd/go.mod h1:IGA2gLcTDpgrl31EAxkyFuPV3FgT9WGV8MFw2JG8+o8=
+github.com/chen-mao/go-xdxml v1.0.3-0.20240507064721-089cc5c00b45 h1:6FkdONvuUIbo0pL+fZpPtQClw+jpOA4cxr6T9gphHds=
+github.com/chen-mao/go-xdxml v1.0.3-0.20240507064721-089cc5c00b45/go.mod h1:IGA2gLcTDpgrl31EAxkyFuPV3FgT9WGV8MFw2JG8+o8=
 github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
 github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/matryer/moq v0.3.4 h1:czCFIos9rI2tyOehN9ktc/6bQ76N9J4xQ2n3dk063ac=

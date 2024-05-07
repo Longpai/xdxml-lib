@@ -12,6 +12,7 @@ type Interface interface {
 
 type devicelib struct {
 	xdxml xdxml.Interface
+	// TODO extend the device interface, such as skip or mig
 }
 
 var _ Interface = &devicelib{}

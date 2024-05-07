@@ -44,3 +44,8 @@ func (d xdxmlDevice) GetPciInfo() (PciInfo, Return) {
 	p, r := xdxml.Device(d).GetPciInfo()
 	return PciInfo(p), Return(r)
 }
+
+func (d xdxmlDevice) GetMemoryInfo() (Memory, Return) {
+	m, r := xdxml.Device(d).GetMemoryInfo()
+	return Memory(m), Return(r)
+}
